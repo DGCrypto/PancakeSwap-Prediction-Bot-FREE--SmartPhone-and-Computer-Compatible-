@@ -35,7 +35,7 @@ Small Sample Prediction Bot Results from non optimized first testing period!
 
 Place address, http web3 provider, and private key in ENV File and Save-as ".env"
 
-[.env file](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/.env.example)
+[.env file](https://github.com/DGCrypto/PancakeSwap-Prediction-Bot-Free/blob/main/.env)
 
 1. Download and install node.js and npm 
 

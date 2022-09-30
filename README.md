@@ -53,4 +53,4 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 
 
 
-Disclaimer: Not financially liable in any way shape or form! Bot is supplied as a tool to use in the pancakeswap prediction game, in no way do we guarantee anything with the usage of this bot. Not affialiated with pancakeswap!
+Disclaimer: Not financially liable in any way shape or form! Bot is supplied to use in the pancakeswap prediction game, in no way do we guarantee anything with the usage of this bot. Not affialiated with pancakeswap!

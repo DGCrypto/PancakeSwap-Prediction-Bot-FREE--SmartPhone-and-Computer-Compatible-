@@ -39,7 +39,7 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 
 1. Download and install node.js and npm 
 
-2. Register with getblock to recieve a free binance smart chain HTTP provider.
+2. Register with https://getblock.io/ to recieve a free binance smart chain HTTP provider.
 
 3. Fill out .env file with required info(stored locally in environmental variables so only accessible by you!)
 
@@ -53,4 +53,4 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 
 
 
-Not financially liable in any way shape or form! Bot is supplied as a tool to use in the pancakeswap prediction game, in no way do we guarantee anything with the usage of this bot. Not affialiated with pancakeswap!
+Disclaimer: Not financially liable in any way shape or form! Bot is supplied as a tool to use in the pancakeswap prediction game, in no way do we guarantee anything with the usage of this bot. Not affialiated with pancakeswap!

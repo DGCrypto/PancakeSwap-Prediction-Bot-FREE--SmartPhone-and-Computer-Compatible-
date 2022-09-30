@@ -3,7 +3,7 @@ Side with the majority or minority in the Pancakeswap Prediction game!
 
 Bot is written in Command Line JavaScript but obfuscated so code cannot be altered and used maliciously by another entity.
 
-DGCrypto is the only provider can ensure code is not malicious.
+DGCrypto is the only provider that ensures code is not malicious.
 
 ![PancakeSwap](https://github.com/DGCrypto/PancakeSwap-Prediction-Free/blob/main/FBE9FFA3-BF50-43F6-B110-DCCA63A4CCAE.jpeg)
 ***

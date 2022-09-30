@@ -1,4 +1,4 @@
-# PancakeSwap-Prediction-Free
+# PancakeSwap-Prediction-Bot-Free
 Side with the majority or minority in the Pancakeswap Prediction game!
 
 ![PancakeSwap](https://github.com/DGCrypto/PancakeSwap-Prediction-Free/blob/main/FBE9FFA3-BF50-43F6-B110-DCCA63A4CCAE.jpeg)

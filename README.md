@@ -45,7 +45,7 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 
 2. Register with https://getblock.io/ to recieve a free binance smart chain HTTP provider.
 
-3. Fill out .env file with required info(stored locally in environmental variables so only accessible by you!)
+3. Fill out .env file with required info(stored locally in environmental variables so only accessible by you!) save as and name the file ".env"
 
 4. Open command shell in the folder of the downloaded files.
 

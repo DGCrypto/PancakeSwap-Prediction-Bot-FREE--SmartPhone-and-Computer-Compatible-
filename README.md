@@ -15,9 +15,12 @@ DGCrypto is the only provider that ensures code is not malicious.
 
 
 **Trial Version** Will not claim rewards! 
+
 Full version with intelligent algorithmic betting and reward claiming is for sale via Telegram.
-If our team receives enough responses this version with reward claiming will be released for free!
+
+If our team receives enough feedback this version with reward claiming will be released for free!
 Small % of bet size is charged as usage fee in the free/trial version!
+
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh
 

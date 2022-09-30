@@ -6,6 +6,7 @@ Bot is written in Command Line JavaScript but obfuscated so code cannot be alter
 DGCrypto is the only provider that ensures code is not malicious.
 
 ![PancakeSwap](https://github.com/DGCrypto/PancakeSwap-Prediction-Free/blob/main/FBE9FFA3-BF50-43F6-B110-DCCA63A4CCAE.jpeg)
+***NOT affiliated with pancakeswap***
 ***
 ![Console Bet Log](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/RSIPredBotConsole.png)
 

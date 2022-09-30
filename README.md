@@ -12,7 +12,7 @@ Side with the majority or minority in the Pancakeswap Prediction game!
 
 **Trial Version** Will not claim rewards! 
 Full version with reward claiming is for sale via Telegram.
-Future versions with different indicators will be for sale soon!
+Future versions with intelligent algorithmic betting will be for sale soon!
 Small % of bet size is charged as usage fee in the free/trial version!
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh

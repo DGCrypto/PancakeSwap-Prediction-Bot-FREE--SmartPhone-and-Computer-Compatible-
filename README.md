@@ -1,6 +1,10 @@
 # PancakeSwap-Prediction-Bot-Free
 Side with the majority or minority in the Pancakeswap Prediction game!
 
+Bot is written in Command Line JavaScript but obfuscated so code cannot be altered and used maliciously by another entity.
+
+DGCrypto is the only place I can ensure the code is not malicious.
+
 ![PancakeSwap](https://github.com/DGCrypto/PancakeSwap-Prediction-Free/blob/main/FBE9FFA3-BF50-43F6-B110-DCCA63A4CCAE.jpeg)
 ***
 ![Console Bet Log](https://github.com/DGCrypto/RSIPancakePredictionBot/blob/main/RSIPredBotConsole.png)
@@ -46,3 +50,7 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 6. Use "node DGmaj.js" to bet with the majority or use "node DGmin.js" to bet with minority!
 
 7. Claim Winning Rewards!!
+
+
+
+Not financially liable in any way shape or form! Bot is supplied as a tool to use in the pancakeswap prediction game, in no way do we guarantee anything with the usage of this bot. Not affialiated with pancakeswap!

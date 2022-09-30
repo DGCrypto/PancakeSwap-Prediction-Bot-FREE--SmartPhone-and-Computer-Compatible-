@@ -41,9 +41,8 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 
 4. Open command shell in the folder of the downloaded files.
 
-5. Run command "npm i web3 dotenv"
+5. Run command "npm i taapi web3 graceful-fs dotenv binance-api-node"
 
 6. Use "node DGmaj.js" to bet with the majority or use "node DGmin.js" to bet with minority!
 
 7. Claim Winning Rewards!!
-

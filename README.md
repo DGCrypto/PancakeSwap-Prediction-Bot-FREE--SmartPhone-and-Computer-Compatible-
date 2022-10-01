@@ -7,6 +7,10 @@ Bot is written in Command Line JavaScript but obfuscated so code cannot be alter
 
 DGCrypto is the only provider that ensures code is not malicious.
 
+[PancakeSwap Prediction bot for SmartPhones video setup guide!](https://m.youtube.com/watch?v=5YK1UZp2T8Q)
+
+
+
 ![PancakeSwap](https://github.com/DGCrypto/PancakeSwap-Prediction-Free/blob/main/FBE9FFA3-BF50-43F6-B110-DCCA63A4CCAE.jpeg)
 ***NOT affiliated with pancakeswap***
 ***

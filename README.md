@@ -1,6 +1,6 @@
 ![DG Crypto](https://github.com/DGCrypto/PancakeSwap-Prediction-Bot-FREE/blob/main/CE5F5D29-F518-418F-BF5A-83848D64D4D4.jpeg)
 
-# PancakeSwap-Prediction-Bot-Free
+# PancakeSwap-Prediction-Bot
 Side with the majority or minority in the Pancakeswap Prediction game!
 
 Bot is written in Command Line JavaScript but obfuscated so code cannot be altered and used maliciously by another entity.

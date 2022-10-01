@@ -21,7 +21,7 @@ DGCrypto is the only provider that ensures code is not malicious.
 
 
 
-**Trial Version** Will not claim rewards! 
+**This Version** Will not claim rewards! 
 
 
 If our team receives enough feedback this version with reward claiming will be released!

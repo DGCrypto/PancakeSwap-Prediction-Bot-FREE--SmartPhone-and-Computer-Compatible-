@@ -30,7 +30,8 @@ DGCrypto is the only provider that ensures code is not malicious.
 
 
 If our team receives enough feedback this version with reward claiming will be released!
-Small % of bet size is charged as usage fee.
+
+ % of bet size is donated to help develop the program.
 
 
 Telegram: https://t.me/+WRurSkMEq0RiOTRh

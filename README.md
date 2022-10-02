@@ -1,5 +1,10 @@
 ![DG Crypto](https://github.com/DGCrypto/PancakeSwap-Prediction-Bot-FREE/blob/main/CE5F5D29-F518-418F-BF5A-83848D64D4D4.jpeg)
 
+Mobile Guide:
+
+https://youtu.be/5YK1UZp2T8Q
+
+
 # PancakeSwap-Prediction-Bot
 Side with the majority or minority in the Pancakeswap Prediction game!
 

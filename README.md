@@ -4,6 +4,8 @@ Mobile Guide:
 
 https://youtu.be/5YK1UZp2T8Q
 
+After downloading npm, node.js, and filling out env file.
+
 `npm i taapi web3 graceful-fs dotenv binance-api-node`
 
 `Node RSIPredOb.js`

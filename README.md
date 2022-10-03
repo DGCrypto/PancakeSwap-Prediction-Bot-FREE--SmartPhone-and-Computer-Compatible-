@@ -4,6 +4,10 @@ Mobile Guide:
 
 https://youtu.be/5YK1UZp2T8Q
 
+`npm i taapi web3 graceful-fs dotenv binance-api-node`
+
+`Node RSIPredOb.js`
+
 
 # PancakeSwap-Prediction-Bot
 Side with the majority or minority in the Pancakeswap Prediction game!
@@ -65,6 +69,13 @@ Place address, http web3 provider, and private key in ENV File and Save-as ".env
 6. Use "node DGmaj.js" to bet with the majority or use "node DGmin.js" to bet with minority!
 
 7. Claim Winning Rewards!!
+
+
+After downloading npm, node.js, and filling out env file.
+
+`npm i taapi web3 graceful-fs dotenv binance-api-node`
+
+`Node RSIPredOb.js`
 
 
 

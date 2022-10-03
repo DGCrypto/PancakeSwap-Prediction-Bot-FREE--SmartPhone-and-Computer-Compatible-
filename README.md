@@ -5,9 +5,11 @@ Mobile Guide:
 https://youtu.be/5YK1UZp2T8Q
 
 Phone
+
 Download CodeSandbox and fill out .env file.
 
 Computer
+
 After downloading npm, node.js, and filling out env file.
 
 `npm i taapi web3 graceful-fs dotenv binance-api-node`
